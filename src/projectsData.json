@@ -6,10 +6,10 @@
         "tags": ["redux","react","javascript"]
     },
     {
-        "title": "Rick and Morty",
-        "link": "hptt",
-        "image": "https://images2.alphacoders.com/130/1300399.jpg",
-        "tags": ["redux","react","javascript"]
+        "title": "ToDo App",
+        "link": "https://kececi-todo.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bccbd64a70729c699873b/screenshot_2023-11-20-21-17-27-0000.png",
+        "tags": ["react","javascript","tailwind"]
     },
     {
         "title": "Rick and Morty",
