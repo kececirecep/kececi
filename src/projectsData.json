@@ -1,9 +1,9 @@
 [
     {
-        "title": "Rick and Morty",
-        "link": "https://x.com",
-        "image": "https://images2.alphacoders.com/130/1300399.jpg",
-        "tags": ["redux","react","javascript"]
+        "title": "Youtube",
+        "link": "https://kececi-youtube.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/6560b0e6497df00008c957b9/screenshot_2023-11-24-14-19-49-0000.png",
+        "tags": ["context","react","tailwind"]
     },
     {
         "title": "ToDo App",
