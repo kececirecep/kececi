@@ -35,7 +35,7 @@ body > div {
 
   /* Genel Scrollbar */
 ::-webkit-scrollbar {
-    width: 5px; /* Genişlik */
+    width: 7px; /* Genişlik */
   }
   
   /* Scrollbar yatay durumu (isteğe bağlı) */
