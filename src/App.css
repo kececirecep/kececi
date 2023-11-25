@@ -27,8 +27,8 @@ body > div {
   .filler {
     height: 100%;
     width: 0%;
-    background-color: #007bff; /* Dolum rengini burada ayarlayabilirsiniz */
-    transition: width 1s ease; /* Dolumun hızını ve animasyonunu burada ayarlayabilirsiniz */
+    background-color: #93c5fd33; /* Dolum rengi */
+    transition: width 1s ease; /* Dolumun hızı ve animasyonu */
   }
   
 
