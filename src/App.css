@@ -40,7 +40,7 @@ body > div {
   
   /* Scrollbar yatay durumu (isteğe bağlı) */
   ::-webkit-scrollbar-thumb:horizontal {
-    background-color: #007bff; /* Dolgu rengi */
+    background-color: #93c5fd33; /* Dolgu rengi */
     border-radius: 6px; /* Köşe yarıçapı */
   }
   
