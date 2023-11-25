@@ -74,7 +74,43 @@
     {
         "title": "Color To-Do App",
         "link": "https://kececi-color-todoapp.netlify.app/",
-        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655cdd1dbd7eda08b1210604/screenshot_2023-11-21-16-39-31-0000.png",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/65627e1e7c2eba00082b95b4/screenshot_2023-11-25-23-08-30-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Dark Mode",
+        "link": "https://kececi-dark-mode.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bd2d4df4231315d9bc8eb/screenshot_2023-11-20-21-43-27-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Game of Thrones Api",
+        "link": "https://kececi-game-of-thrones-api.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bbf76258963314b479bdd/screenshot_2023-11-20-20-20-43-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "League of Legends",
+        "link": "https://kececi-league-of-legends.netlify.app/",
+        "image": "https://i.hizliresim.com/qpbdgqe.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Random Users",
+        "link": "https://kececi-random-users.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655cdf0aeb857b10285e0baf/screenshot_2023-11-21-16-47-47-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Basic Pomodoro-Todo",
+        "link": "https://kececi-basic-pomodoro.netlify.app/",
+        "image": "https://i.hizliresim.com/8akvo6j.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "E-commerce v2",
+        "link": "https://kececi-ecommerce-filter-search.netlify.app/#",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bbd8e146d5721f275de7d/screenshot_2023-11-20-20-12-32-0000.png",
         "tags": ["redux","react","javascript"]
     }
 ]
