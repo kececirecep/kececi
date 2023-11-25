@@ -21,7 +21,7 @@ body > div {
 .progressBar {
     width:60%;
     height: 20px;
-    background-color: #ccc; 
+    background-color: #93c5fd33; 
   }
   
   .filler {
@@ -52,5 +52,5 @@ body > div {
   
   /* Scrollbar arka plan (isteğe bağlı) */
   ::-webkit-scrollbar-track {
-    background-color: #f1f1f1; /* Arkaplan rengi */
+    background-color: #93c5fd33; /* Arkaplan rengi */
   }
