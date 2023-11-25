@@ -1,5 +1,11 @@
 [
     {
+        "title": "X(Twitter) Clone",
+        "link": "https://kececi-x-clone.netlify.app/",
+        "image": "https://i.hizliresim.com/bht3xie.png",
+        "tags": ["firebase","react","redux"]
+    },
+    {
         "title": "Youtube",
         "link": "https://kececi-youtube.netlify.app/",
         "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/6560b0e6497df00008c957b9/screenshot_2023-11-24-14-19-49-0000.png",
@@ -12,27 +18,63 @@
         "tags": ["react","javascript","tailwind"]
     },
     {
-        "title": "X(Twitter) Clone",
-        "link": "https://kececi-x-clone.netlify.app/",
-        "image": "https://i.hizliresim.com/bht3xie.png",
+        "title": "Number Matching Game",
+        "link": "https://kececi-number-matching-game.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bc812146d572a2775de3b/screenshot_2023-11-20-20-57-24-0000.png",
+        "tags": ["tailwind","react","javascript"]
+    },
+    {
+        "title": "Github Profile",
+        "link": "https://kececi-github-profile.netlify.app/",
+        "image": "https://i.hizliresim.com/rrp1iov.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "E-commerce",
+        "link": "https://kececi-e-commerce.netlify.app/",
+        "image": "https://i.hizliresim.com/s2offsp.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Dead by Daylight",
+        "link": "https://kececi-dead-by-daylight-api.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bba06a9ee150008dd0403/screenshot_2023-11-20-19-57-18-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Quiz App",
+        "link": "https://kececi-quiz-app.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bc9e76bf0682bbba60ad1/screenshot_2023-11-20-21-05-27-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Portfolio",
+        "link": "https://kececi-portfolio-v1.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bba3c4eb47000083408a4/screenshot_2023-11-20-19-58-16-0000.png",
+        "tags": ["redux","react","javascript"]
+    },
+    {
+        "title": "Portfolio v2",
+        "link": "https://kececi-portfolio-v2.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bc8e2f2e6a02a88c1ee3c/screenshot_2023-11-20-21-00-53-0000.png",
         "tags": ["redux","react","javascript"]
     },
     {
         "title": "Rick and Morty",
-        "link": "hptt",
-        "image": "https://images2.alphacoders.com/130/1300399.jpg",
+        "link": "https://kececi-rick-and-morty.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bcac12589633a2a479bae/screenshot_2023-11-20-21-08-50-0000.png",
         "tags": ["redux","react","javascript"]
     },
     {
-        "title": "Rick and Morty",
-        "link": "hptt",
-        "image": "https://images2.alphacoders.com/130/1300399.jpg",
+        "title": "Crypto Api",
+        "link": "https://kececi-crypto-api.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655bba75ed22af0008274992/screenshot_2023-11-20-19-59-09-0000.png",
         "tags": ["redux","react","javascript"]
     },
     {
-        "title": "Rick and Morty",
-        "link": "hptt",
-        "image": "https://images2.alphacoders.com/130/1300399.jpg",
+        "title": "Color To-Do App",
+        "link": "https://kececi-color-todoapp.netlify.app/",
+        "image": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/655cdd1dbd7eda08b1210604/screenshot_2023-11-21-16-39-31-0000.png",
         "tags": ["redux","react","javascript"]
     }
 ]
